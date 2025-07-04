@@ -75,4 +75,5 @@ Together, we can build tools that make mental health support more accessible, pr
 ---
 
 **🔗 License:** MIT  
-**📧 Contact:** [Your Email Here]  
+**📧 Contact:** harsha200417@gmail.com
+
